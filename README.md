@@ -12,4 +12,7 @@ We Care is a responsive and interactive website designed for healthcare services
 - **Interactive FAQ**: Clickable questions with collapsible answers.
 - **Smooth Scrolling**: Enhanced user experience with smooth navigation.
 - **Attractive Design**: Multicolor gradients and hover effects.
-
+Languages and Percentages:
+HTML: 50%
+CSS: 40%
+JavaScript: 10%
