@@ -15,6 +15,6 @@ We Care is a responsive and interactive healthcare web project designed to provi
 - **JavaScript**: For dynamic interactivity.
 
 ### Language Breakdown
-- HTML: 60%
-- CSS: 30%
+- HTML: 30%
+- CSS: 60%
 - JavaScript: 10%
